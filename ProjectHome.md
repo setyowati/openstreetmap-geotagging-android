@@ -1,0 +1,2 @@
+- Get actual GPS/mobile coordinates
+- Add picture of the place
